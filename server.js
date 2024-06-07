@@ -7,7 +7,7 @@ const port = 8000; // port sever
 const connection = mysql.createConnection({
     host:'sql12.freesqldatabase.com',
     user:'sql12712112',
-    database:'teach_table',
+    database:'sql12712112',
     password:'fE5j68QzaX',
     port:'3306'
 });
