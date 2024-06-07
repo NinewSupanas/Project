@@ -12,7 +12,7 @@ const connection = mysql.createConnection({
     port:'3306'
 });
 
-const table ='Project_Test';
+const table ='teach_table';
 
 var app = express();
 app.use(cors());
